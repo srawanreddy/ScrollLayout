@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_header">30sp</dimen>
+    <dimen name="subtitle_size">20sp</dimen>
+    <dimen name="article_size">16sp</dimen>
+    <dimen name="layout_padding">8dp</dimen>
+</resources>
